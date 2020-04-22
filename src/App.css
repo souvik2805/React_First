@@ -1,3 +1,7 @@
+.FancyBorderblue{
+  border: 10px solid blue;
+}
+
 .App {
   text-align: center;
 }
